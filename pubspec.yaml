@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   any_base: ^2.0.0
-  uuid: ^4.3.3
+  uuid: ^4.5.1
 
 dev_dependencies:
   test: ^1.17.5
